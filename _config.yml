@@ -29,3 +29,7 @@ social:
    email: info@knifetalk.net
 
 google_analytics: "UA-"
+
+
+
+# Note that when viewing locally (bundle exec jekyll serve) the baseurl should be "". To build for GitHub pages it should be "/".
