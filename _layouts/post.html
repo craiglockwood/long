@@ -8,8 +8,9 @@ layout: default
       </div>
   {% endif %}
   <h1 class="postTitle">{{ page.title }}</h1>
+  <div class="sponsors_post">Episode kindly sponsored by: {{ page.sponsors }}</div>
   <p class="meta">{{ page.date | date: '%B %d, %Y' }} </p>
-  <div class="sponsors">Episode kindly sponsored by: {{ page.sponsors }}</div>
+
   
   {{ content }}
 

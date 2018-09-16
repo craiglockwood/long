@@ -9,16 +9,35 @@ html {
 }
 
 
+
+
 .strapline {
   font-size: .8em;
   padding-top: 20px;
 }
 
-.sponsors {
+.sponsors_index {
+  font-size: .8em;
+  
+  padding-bottom: .5em;
+
+}
+
+.sponsors_post {
   font-size: .8em;
   padding-top: 1em;
-  padding-bottom: 1em;
+  padding-bottom: .5em;
   text-align: center;
+}
+
+blockquote.largeQuote {
+  line-height: 1.4;
+  text-align: center;
+  font-size: 1.777rem;
+  margin: 1.5rem -160px 0;
+  padding-left: 0;
+  border-left: 0;
+  font-style: italic;
 }
 
 
@@ -691,7 +710,7 @@ body {
 
 body p,
 body ul {
-    margin: 0 0 2rem
+    margin: 0 0 1rem
 }
 
 ::-moz-selection {
@@ -880,7 +899,7 @@ dd {
 .post blockquote:before {
     content: "";
     position: absolute;
-    background: #2e8b57;
+    
     display: block;
     height: 2px;
     width: 150px;

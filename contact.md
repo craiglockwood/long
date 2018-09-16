@@ -4,11 +4,11 @@ title: Contact Knife Talk
 ---
 
 <div id="contact">
-  <h1 class="pageTitle">Contact Me</h1>
+  <h1 class="pageTitle">Contact The Show</h1>
   <div class="contactContent">
-    <p class="intro">This is an example Contact page. If you want to make changes then do so in the <code>contact.html</code> file.</p>
-    <p>The form is provided by <a href="http://formspree.io/">Formspree.</a> Follow the directions on their site to set up the form for use.</p>
-    <p>If you have questions about the theme feel free to <a href="mailto:brimaidesigns@gmail.com">email me</a> or create an issue on <a href="https://github.com/brianmaierjr/long-haul">GitHub</a>. Enjoy!</p>
+    <p class="intro">We want the show to be as interactive as possible so drop us a line...</p>
+    <p>We would love to answer any questions you may have on the show. We may ask for further details or even for you to record your question so it can be featured in the show.</p>
+    <p>Alternatively, if you have any ideas for the show, let us know. We are all ears.</p>
   </div>
   <form action="http://formspree.io/your@mail.com" method="POST">
     <label for="name">Name</label>
