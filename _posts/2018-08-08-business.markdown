@@ -3,6 +3,7 @@ layout: post
 title:  "The business of making knives"
 date:   2018-08-08 00:01:00
 description: This is a post description for meta purposes. This is also the excerpt of the article that shows up on the index/home page. Change this in the post YAML.
+sponsors: <a href="http://www.evenheatkilns.com">Evenheat</a>
 
 ---
 
