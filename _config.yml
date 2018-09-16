@@ -1,7 +1,7 @@
-title: Long Haul
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+title: Knife Talk
+description: The podcast for knife nerds hosted by x x x
 
-url: http://brianmaierjr.github.com/long-haul
+url: 
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
@@ -16,13 +16,16 @@ navigation:
    url: /index.html
  - title: About
    url: /about
+ - title: Sponsorship
+   url: /contact
  - title: Contact
    url: /contact
 
+
 social:
-   github: brianmaierjr
-   twitter: brianmaierjr
-   facebook: brianmaierjr
-   email: brimaidesigns@gmail.com
+   
+   twitter: knifetalkpodcast
+   facebook: knifetalkpodcast
+   email: info@knifetalk.net
 
 google_analytics: "UA-58263416-1"

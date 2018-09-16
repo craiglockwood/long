@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Contact Long Haul
+title: Contact Knife Talk
 ---
 
 <div id="contact">

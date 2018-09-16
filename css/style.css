@@ -16,6 +16,14 @@ html {
   -webkit-text-size-adjust: 100%;
   /* 2 */ }
 
+
+.strapline {
+  font-size: 1em;
+  padding-top: 20px;
+}
+
+
+
 /* Sections
    ========================================================================== */
 /**
@@ -393,6 +401,11 @@ body {
     font-size: 1.25em;
     line-height: 1.7; }
 
+
+.strapline {
+  font-size: 1em;
+}
+
 @media (min-width: 43.75em) {
   body {
     font-size: 1em;
@@ -419,8 +432,8 @@ h1, .h1 {
     line-height: 1.05; } }
 
 h2, .h2 {
-  font-size: 1.625em;
-  line-height: 1.15384615; }
+  font-size: 1.0em;
+  line-height: 1.0; }
 
 @media (min-width: 43.75em) {
   h2, .h2 {
