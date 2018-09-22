@@ -409,7 +409,7 @@ blockquote {
 .button__outline:hover {
     color: #fff;
     text-decoration: none;
-    background-color: #21653f
+    background-color: ##f7c026
 }
 
 .button-secondary:active,
