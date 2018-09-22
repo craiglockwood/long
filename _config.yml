@@ -2,7 +2,7 @@ title: Knife Talk
 description: The podcast for knife nerds hosted by x x x
 
 url: 
-baseurl: "/"
+baseurl: ""
 paginate_path: "episode/page:num/"
 permalink: episode/:title/
 
