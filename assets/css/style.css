@@ -874,7 +874,8 @@ dd {
 
 .header h1 a {
     color: #fff;
-    text-decoration: none
+    text-decoration: none;
+    text-shadow: 2px 2px #000000;
 }
 
 .post .postTitle {
@@ -1194,7 +1195,8 @@ dd {
         line-height: 3em;
         background: none;
         padding: 0 5px;
-        border: none
+        border: none;
+        text-shadow: 2px 2px #000000;
     }
     .header nav ul li a {
         color: #fff;
