@@ -382,7 +382,7 @@ blockquote {
 .button-secondary,
 .button-tertiary,
 .button__outline {
-    background-color: #2e8b57;
+    background-color: #0c4a5f;
     display: inline-block;
     position: relative;
     font-family: Open Sans, Helvetica, Arial, sans-serif;
@@ -437,8 +437,8 @@ blockquote {
 
 .button__outline {
     background-color: transparent;
-    border: 3px solid #2e8b57;
-    color: #2e8b57
+    border: 3px solid #0c4a5f;
+    color: #0c4a5f
 }
 
 .button__outline:hover {
@@ -474,7 +474,7 @@ input[type=phone]:focus,
 input[type=search]:focus,
 input[type=text]:focus,
 textarea:focus {
-    border: 1px solid #2e8b57
+    border: 1px solid #0c4a5f
 }
 
 input[type=email].full-width,
@@ -714,12 +714,12 @@ body ul {
 }
 
 ::-moz-selection {
-    background: #2e8b57;
+    background: #0c4a5f;
     color: #fff
 }
 
 ::selection {
-    background: #2e8b57;
+    background: #0c4a5f;
     color: #fff
 }
 
@@ -765,7 +765,7 @@ a:hover {
 .nav-collapse ul li {
     width: 100%;
     display: block;
-    background: #2e8b57;
+    background: #0c4a5f;
     border-bottom: 2px solid #349e63
 }
 
@@ -801,7 +801,7 @@ a:hover {
     float: right;
     line-height: 2em;
     margin-top: .5em;
-    background-color: #2e8b57;
+    background-color: #0c4a5f;
     border-radius: 4px;
     padding: 0 .5em;
     color: #fff;
@@ -944,7 +944,7 @@ dd {
 }
 
 .post .dropcap {
-    color: #2e8b57;
+    color: #0c4a5f;
     margin-right: .45rem
 }
 
@@ -1071,7 +1071,7 @@ dd {
 }
 
 .footer-links ul li a svg .outer-shape {
-    fill: #2e8b57
+    fill: #0c4a5f
 }
 
 .footer-links ul li a svg .inner-shape {
